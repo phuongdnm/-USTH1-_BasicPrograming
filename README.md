@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Course: Basic Programing }
+# _Course_: Basic Programing 
 TODO:
 The C programming language is one of the most popular programming languages. Despite being fairly old programming language, it is widely used for system and application software. because of its efficiency and control.
 
