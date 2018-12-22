@@ -1,4 +1,4 @@
-## [USTH-First year] Basic Programing Labworks
+# [USTH-First year] Basic Programing Labworks
 The C programming language is one of the most popular programming languages. Despite being fairly old programming language, it is widely used for system and application software. because of its efficiency and control.
 
 This course is intended for beginners who do not have any prior knowledge or have very little knowledge of computer programming. All basic features of C programming language are included in detail such as basic syntax, data types, operators, control flow, functions, arrays, pointers, union, structure, and the standard c library.
@@ -20,11 +20,13 @@ gcc \.filename.c -o \.filename.exe
 
 ##### Using IDE: 
 Download and install Code::Blocks or Def-C++:
-* [CodeBlock::](https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download)
+* [Code::Blocks](https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download)
 * [Def-C++](https://sourceforge.net/projects/orwelldevcpp/)
 #### Using cmd/powershell:
 It's more complicated than the previous method, but you will look more pro.  
-Follow this [link](https://www.wikihow.com/Compile-a-C-Program-Using-the-GNU-Compiler-(GCC))
+Follow this [link](https://www.wikihow.com/Compile-a-C-Program-Using-the-GNU-Compiler-(GCC))  
+
+> The hardes part of programing is setting up the environment
 
 ### Installation with CocoaPods
 
