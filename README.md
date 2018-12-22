@@ -1,24 +1,24 @@
-![NSGIF](https://dl.dropboxusercontent.com/s/0rq3fr0dtpvwd4h/NSGIF-header.png?dl=0)
+### [USTH-Frist year] Basic Programing Labworks
+The C programming language is one of the most popular programming languages. Despite being fairly old programming language, it is widely used for system and application software. because of its efficiency and control.
 
-NSGIF is an iOS Library for converting your videos into beautiful animated GIFs.
-Check out [_this example_](http://files.parsetfss.com/2677410f-fd15-46aa-a2fa-258c85d4da30/tfss-2215cfe6-03b5-4546-8422-d292f875efb9-whom.gif). 
+This course is intended for beginners who do not have any prior knowledge or have very little knowledge of computer programming. All basic features of C programming language are included in detail such as basic syntax, data types, operators, control flow, functions, arrays, pointers, union, structure, and the standard c library.
 
-_Sometimes we need to deal with GIFs in Cocoa. This can really be a pain in the ass (believe me). And here comes our hero :octocat:. Breaking through errors and glitches and generating smooth GIFs :dash:._
+In this course, you will not only learn the C programming language, but you also improve your computational skills beneficial to your major field of study.
 
-## How it works
-![NSGIF](https://dl.dropboxusercontent.com/s/nsh0s1shh9fbqpu/NSGIF-HIW.png?dl=0)
-That's it really. Although iOS defaults to .MOV for recordings you can also use .AVI and .MP4. If you want to go into some technical details though, here they are:
+## How to use
+There are 2 ways you can run C files in your computer
+* Using IDE ( CodeBock::/ Dev-C++
+![NSGIG](www.google.com)
+* Using command line/ powershell
+```PowerShell:
+gcc \.filename.c -o \.filename.exe
+```
+![NSGIG](www.google.com)
 
-## Add to your project
 
-There are 2 ways you can add NSGIF to your project:
+### Sofware installation
 
-### Manual installation
-
-Simply import the 'NSGIF' into your project then import the following in the class you want to use it: 
-```objective-c
-#import "NSGIF.h"
-```      
+##### Using    
 ### Installation with CocoaPods
 
 CocoaPods is a dependency manager for Objective-C, which automates and simplifies the process of using 3rd-party libraries like NSGIF in your projects. See the "[Getting Started](http://guides.cocoapods.org/syntax/podfile.html)" guide for more information.
