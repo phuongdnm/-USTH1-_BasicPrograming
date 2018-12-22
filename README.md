@@ -1,4 +1,4 @@
-### [USTH-Frist year] Basic Programing Labworks
+## [USTH-Frist year] Basic Programing Labworks
 The C programming language is one of the most popular programming languages. Despite being fairly old programming language, it is widely used for system and application software. because of its efficiency and control.
 
 This course is intended for beginners who do not have any prior knowledge or have very little knowledge of computer programming. All basic features of C programming language are included in detail such as basic syntax, data types, operators, control flow, functions, arrays, pointers, union, structure, and the standard c library.
@@ -6,10 +6,10 @@ This course is intended for beginners who do not have any prior knowledge or hav
 In this course, you will not only learn the C programming language, but you also improve your computational skills beneficial to your major field of study.
 
 ## How to use
-There are 2 ways you can run C files in your computer
+There are **2 ways** you can run C files in your computer
 * Using IDE ( CodeBock::/ Dev-C++
 ![NSGIG](www.google.com)
-* Using command line/ powershell
+* Using cmd/ powershell
 ```PowerShell:
 gcc \.filename.c -o \.filename.exe
 ```
@@ -18,7 +18,14 @@ gcc \.filename.c -o \.filename.exe
 
 ### Sofware installation
 
-##### Using    
+##### Using IDE: 
+Download and install Codeblock:: or Def-C++:
+* [CodeBlock::](https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download)
+* [Def-C++](https://sourceforge.net/projects/orwelldevcpp/)
+#### Using cmd/powershell:
+It's more complicated than the previous method, but you will look more pro
+Follow this [link](https://www.wikihow.com/Compile-a-C-Program-Using-the-GNU-Compiler-(GCC))
+
 ### Installation with CocoaPods
 
 CocoaPods is a dependency manager for Objective-C, which automates and simplifies the process of using 3rd-party libraries like NSGIF in your projects. See the "[Getting Started](http://guides.cocoapods.org/syntax/podfile.html)" guide for more information.
