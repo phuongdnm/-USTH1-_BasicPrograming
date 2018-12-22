@@ -8,13 +8,15 @@ In this course, you will not only learn the C programming language, but you also
 ## How to use
 There are **2 ways** you can run C files in your computer:  
 * Using IDE ( Code::Blocks/ Dev-C++)  
-![NSGIG](https://media.giphy.com/media/cORvZWx7oppNGkgAUN/giphy.gif)  
+
+![Images](https://dl.dropboxusercontent.com/s/4i6jcu528cbxm87/basic_programing_codeblocks.gif?dl=0)  
+
 * Using cmd/ powershell  
 ```PowerShell:
 C:\...\> gcc \.filename.c -o \.filename.exe
 ```  
-![Images](https://media.giphy.com/media/xWfDmy7Eq7fotUUwfS/giphy.gif)
 
+![Images](https://dl.dropboxusercontent.com/s/yjporx2q7rabxcs/1.gif?dl=0)
 
 ### Sofware installation
 
@@ -24,13 +26,13 @@ Download and install Code::Blocks or Def-C++:
 * [Def-C++](https://sourceforge.net/projects/orwelldevcpp/)
 #### Using cmd/powershell:
 It's more complicated than the previous method, but you will look more professional.  
-Follow this [link](https://www.wikihow.com/Compile-a-C-Program-Using-the-GNU-Compiler-(GCC))  
+Follow this [link](https://www.wikihow.com/Compile-a-C-Program-Using-the-GNU-Compiler-(GCC)).    
 
-> The hardes part of programing is setting up the environment.  
+> The hardes part of programing is setting up the environment.
 
 ## Note
-- [X] I highly recommend you to do the problems first.  
-- [X] You should give it a try. I used to be in the same situation when I learned basic C.  
-- [X] For any problems, you can contact me through my email or facebook.  
+- [X] I highly recommend you to do the problems first.
+- [X] You should give it a try. I used to be in the same situation when I learned basic C.
+- [X] For any problems, you can contact me through my email or facebook.
 
 Pull requests are more than welcomed! **Do share** to your friend!
