@@ -13,7 +13,7 @@ There are **2 ways** you can run C files in your computer:
 
 * Using cmd/ powershell  
 ```PowerShell:
-C:\...\> gcc \.filename.c -o \.filename.exe
+C:\...\> gcc .\filename.c -o .\filename.exe
 ```  
 
 ![Images](https://dl.dropboxusercontent.com/s/yjporx2q7rabxcs/1.gif?dl=0)
